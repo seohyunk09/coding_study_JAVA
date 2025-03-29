@@ -1,7 +1,5 @@
 /* 1697번 -나무조각- 브론즈1 */
 
-package javastudy;
-
 import java.util.Scanner;
 
 public class num2947 {
