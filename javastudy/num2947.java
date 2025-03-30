@@ -15,7 +15,6 @@ public class num2947 {
 		boolean finish;
 		do {
 			finish = false;
-
 			for (int i = 0; i < arr.length - 1; i++) {
 				if (arr[i] > arr[i + 1]) {
 					temp = arr[i]; // arr[i]값을 temp에 임시 저장
